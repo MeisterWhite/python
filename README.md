@@ -1,2 +1,2 @@
 # python
-Geekbrains-Data Science
+Geekbrains-Methods of collecting and processing data from the Internet
